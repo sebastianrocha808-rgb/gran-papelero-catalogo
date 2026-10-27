@@ -27,4 +27,4 @@ footer{text-align:center;padding:22px;color:#526475;font-size:13px}
 const search=document.getElementById('search'), category=document.getElementById('category'), cards=[...document.querySelectorAll('.card')], count=document.getElementById('count');
 function filterCards(){const q=search.value.toLowerCase().trim(), c=category.value;let n=0;for(const card of cards){const show=(!q||card.dataset.search.includes(q))&&(!c||card.dataset.category===c);card.style.display=show?'flex':'none';if(show)n++;}count.textContent=`Mostrando ${n} de ${cards.length} productos`;}
 search.addEventListener('input',filterCards);category.addEventListener('change',filterCards);
-</script></body></html>
+</script><script src="carrito.js"></script></body></html>
