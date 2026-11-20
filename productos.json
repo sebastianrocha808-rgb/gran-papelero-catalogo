@@ -1,14 +1,5 @@
 [
   {
-    "ref": 1,
-    "name": "NACHO INICIAL",
-    "category": "Librería",
-    "page": 1,
-    "image": "imagenes/producto_0001.jpg",
-    "photo": "imagenes/foto_0001.jpg",
-    "sort_index": 1
-  },
-  {
     "ref": 2,
     "name": "NACHO LECTURAS INTEGRADAS A,B,C,D Y E",
     "category": "Librería",
@@ -16,15 +7,6 @@
     "image": "imagenes/producto_0002.jpg",
     "photo": "imagenes/foto_0002.jpg",
     "sort_index": 2
-  },
-  {
-    "ref": 3,
-    "name": "NACHO MATEMÁTICAS A",
-    "category": "Librería",
-    "page": 1,
-    "image": "imagenes/producto_0003.jpg",
-    "photo": "imagenes/foto_0003.jpg",
-    "sort_index": 3
   },
   {
     "ref": 4,
@@ -43,15 +25,6 @@
     "image": "imagenes/producto_0005.jpg",
     "photo": "imagenes/foto_0005.jpg",
     "sort_index": 5
-  },
-  {
-    "ref": 6,
-    "name": "NACHO PREMATEMÁTICAS",
-    "category": "Librería",
-    "page": 1,
-    "image": "imagenes/producto_0006.jpg",
-    "photo": "imagenes/foto_0006.jpg",
-    "sort_index": 6
   },
   {
     "ref": 7,
@@ -117,24 +90,6 @@
     "sort_index": 13
   },
   {
-    "ref": 14,
-    "name": "EL MONOSÍLABO LECTOESCRITURA",
-    "category": "Librería",
-    "page": 2,
-    "image": "imagenes/producto_0014.jpg",
-    "photo": "imagenes/foto_0014.jpg",
-    "sort_index": 14
-  },
-  {
-    "ref": 15,
-    "name": "EL MONOSÍLABO MATEMÁTICAS",
-    "category": "Librería",
-    "page": 2,
-    "image": "imagenes/producto_0015.jpg",
-    "photo": "imagenes/foto_0015.jpg",
-    "sort_index": 15
-  },
-  {
     "ref": 16,
     "name": "ATLAS UNIVERSAL",
     "category": "Librería",
@@ -160,15 +115,6 @@
     "image": "imagenes/producto_0018.jpg",
     "photo": "imagenes/foto_0018.jpg",
     "sort_index": 18
-  },
-  {
-    "ref": 19,
-    "name": "DICCIONARIO NORMA BILINGÜE MORADO",
-    "category": "Librería",
-    "page": 3,
-    "image": "imagenes/producto_0019.jpg",
-    "photo": "imagenes/foto_0019.jpg",
-    "sort_index": 19
   },
   {
     "ref": 20,
@@ -306,24 +252,6 @@
     "sort_index": 34
   },
   {
-    "ref": 35,
-    "name": "SOPAS DE LETRAS, SIGLOS,MÁNDALAS, ETC",
-    "category": "Librería",
-    "page": 4,
-    "image": "imagenes/producto_0035.jpg",
-    "photo": "imagenes/foto_0035.jpg",
-    "sort_index": 35
-  },
-  {
-    "ref": 36,
-    "name": "Nombre por confirmar",
-    "category": "Librería",
-    "page": 4,
-    "image": "imagenes/producto_0036.jpg",
-    "photo": "imagenes/foto_0036.jpg",
-    "sort_index": 36
-  },
-  {
     "ref": 37,
     "name": "JUVENTUD EN ÉXTASIS",
     "category": "Librería",
@@ -405,15 +333,6 @@
     "sort_index": 45
   },
   {
-    "ref": 46,
-    "name": "GRAPADORA PEQUEÑA ZEPPELIN (20 HOJAS)",
-    "category": "Oficina",
-    "page": 6,
-    "image": "imagenes/producto_0046.jpg",
-    "photo": "imagenes/foto_0046.jpg",
-    "sort_index": 46
-  },
-  {
     "ref": 47,
     "name": "GRAPADORA METALICA MARFIL (48 HOJAS)",
     "category": "Oficina",
@@ -450,15 +369,6 @@
     "sort_index": 50
   },
   {
-    "ref": 51,
-    "name": "GRAPADORA PLASTICA SEMIAUTOMATICA ZEPPELIN (20 HOJAS)",
-    "category": "Oficina",
-    "page": 6,
-    "image": "imagenes/producto_0051.jpg",
-    "photo": "imagenes/foto_0051.jpg",
-    "sort_index": 51
-  },
-  {
     "ref": 52,
     "name": "GRAPADORA MEDIANA ZEPPELIN (25 HOJAS)",
     "category": "Oficina",
@@ -468,15 +378,6 @@
     "sort_index": 52
   },
   {
-    "ref": 53,
-    "name": "GRAPADORA GRANDE ZEPPELIN (25 HOJAS)",
-    "category": "Oficina",
-    "page": 6,
-    "image": "imagenes/producto_0053.jpg",
-    "photo": "imagenes/foto_0053.jpg",
-    "sort_index": 53
-  },
-  {
     "ref": 54,
     "name": "GRAPADORA INDUSTRIAL ZEPPELIN (100 HOJAS)",
     "category": "Oficina",
@@ -484,15 +385,6 @@
     "image": "imagenes/producto_0054.jpg",
     "photo": "imagenes/foto_0054.jpg",
     "sort_index": 54
-  },
-  {
-    "ref": 55,
-    "name": "SET MINI GRAPADORA GARABATOS",
-    "category": "Oficina",
-    "page": 7,
-    "image": "imagenes/producto_0055.jpg",
-    "photo": "imagenes/foto_0055.jpg",
-    "sort_index": 55
   },
   {
     "ref": 56,
@@ -783,24 +675,6 @@
     "sort_index": 87
   },
   {
-    "ref": 88,
-    "name": "GLOBO TERRAQUIO PEQUEÑO",
-    "category": "Oficina",
-    "page": 10,
-    "image": "imagenes/producto_0088.jpg",
-    "photo": "imagenes/foto_0088.jpg",
-    "sort_index": 88
-  },
-  {
-    "ref": 89,
-    "name": "MARCADOR DETECTOR BILLETES FALSOS \"GRAFITOS\"",
-    "category": "Oficina",
-    "page": 10,
-    "image": "imagenes/producto_0089.jpg",
-    "photo": "imagenes/foto_0089.jpg",
-    "sort_index": 89
-  },
-  {
     "ref": 90,
     "name": "TACO DE ESCRITORIOPAPEL BOND X250H",
     "category": "Oficina",
@@ -963,24 +837,6 @@
     "sort_index": 107
   },
   {
-    "ref": 135,
-    "name": "135.. PEGANTE BLANCO KLIPP 250G",
-    "category": "Escolar",
-    "page": 12,
-    "image": "imagenes/producto_0108.jpg",
-    "photo": "imagenes/foto_0108.jpg",
-    "sort_index": 108
-  },
-  {
-    "ref": 109,
-    "name": "CALCULADORA MARFIL DE 8 DIJITOS",
-    "category": "Catálogo general",
-    "page": 13,
-    "image": "imagenes/producto_0109.jpg",
-    "photo": "imagenes/foto_0109.jpg",
-    "sort_index": 109
-  },
-  {
     "ref": 110,
     "name": "CALCULADORA CASIO CIENTIFICA 417 FUNCIONES",
     "category": "Catálogo general",
@@ -1008,15 +864,6 @@
     "sort_index": 112
   },
   {
-    "ref": 113,
-    "name": "CALCULADORA MAKING12 DIGITOS TWO POWER",
-    "category": "Catálogo general",
-    "page": 13,
-    "image": "imagenes/producto_0113.jpg",
-    "photo": "imagenes/foto_0113.jpg",
-    "sort_index": 113
-  },
-  {
     "ref": 114,
     "name": "CALCULADORA MAKING 12DIGITOS SOLAR/BAT NEGRO,AZUL ROSA",
     "category": "Catálogo general",
@@ -1024,15 +871,6 @@
     "image": "imagenes/producto_0114.jpg",
     "photo": "imagenes/foto_0114.jpg",
     "sort_index": 114
-  },
-  {
-    "ref": 115,
-    "name": "CALCULADORA MAKING DE ESCRITORIO 12 DIGITOS",
-    "category": "Catálogo general",
-    "page": 13,
-    "image": "imagenes/producto_0115.jpg",
-    "photo": "imagenes/foto_0115.jpg",
-    "sort_index": 115
   },
   {
     "ref": 116,
@@ -1134,24 +972,6 @@
     "sort_index": 126
   },
   {
-    "ref": 136,
-    "name": "PEGANTE BLANCO 125GR",
-    "category": "Escolar",
-    "page": 15,
-    "image": "imagenes/producto_0127.jpg",
-    "photo": "imagenes/foto_0127.jpg",
-    "sort_index": 127
-  },
-  {
-    "ref": 137,
-    "name": "137.PEGANTE BLANCO 40GR",
-    "category": "Escolar",
-    "page": 15,
-    "image": "imagenes/producto_0128.jpg",
-    "photo": "imagenes/foto_0128.jpg",
-    "sort_index": 128
-  },
-  {
     "ref": 138,
     "name": "GOTA MAGICA MACAO",
     "category": "Escolar",
@@ -1195,42 +1015,6 @@
     "image": "imagenes/producto_0133.jpg",
     "photo": "imagenes/foto_0133.jpg",
     "sort_index": 133
-  },
-  {
-    "ref": 143,
-    "name": "SELLOS INFANTILES",
-    "category": "Escolar",
-    "page": 15,
-    "image": "imagenes/producto_0134.jpg",
-    "photo": "imagenes/foto_0134.jpg",
-    "sort_index": 134
-  },
-  {
-    "ref": 144,
-    "name": "FOAMY MOLDEABLES",
-    "category": "Escolar",
-    "page": 15,
-    "image": "imagenes/producto_0135.jpg",
-    "photo": "imagenes/foto_0135.jpg",
-    "sort_index": 135
-  },
-  {
-    "ref": 145,
-    "name": "145.CARTUCHERA OVALADA",
-    "category": "Arte",
-    "page": 16,
-    "image": "imagenes/producto_0136.jpg",
-    "photo": "imagenes/foto_0136.jpg",
-    "sort_index": 136
-  },
-  {
-    "ref": 146,
-    "name": "CARTUCHERA 4 BOLSILLOS",
-    "category": "Arte",
-    "page": 16,
-    "image": "imagenes/producto_0137.jpg",
-    "photo": "imagenes/foto_0137.jpg",
-    "sort_index": 137
   },
   {
     "ref": 147,
@@ -1285,15 +1069,6 @@
     "image": "imagenes/producto_0143.jpg",
     "photo": "imagenes/foto_0143.jpg",
     "sort_index": 143
-  },
-  {
-    "ref": 153,
-    "name": "CARTUCHERA PRIMAVERA 1 CIERRE",
-    "category": "Arte",
-    "page": 16,
-    "image": "imagenes/producto_0144.jpg",
-    "photo": "imagenes/foto_0144.jpg",
-    "sort_index": 144
   },
   {
     "ref": 154,
@@ -1467,15 +1242,6 @@
     "sort_index": 163
   },
   {
-    "ref": 173,
-    "name": "LAPICES JUMBO KLIPP",
-    "category": "Escolar",
-    "page": 19,
-    "image": "imagenes/producto_0164.jpg",
-    "photo": "imagenes/foto_0164.jpg",
-    "sort_index": 164
-  },
-  {
     "ref": 174,
     "name": "LAPICERO NEON CON ESCARCHA *12",
     "category": "Escolar",
@@ -1483,15 +1249,6 @@
     "image": "imagenes/producto_0165.jpg",
     "photo": "imagenes/foto_0165.jpg",
     "sort_index": 165
-  },
-  {
-    "ref": 175,
-    "name": "LAPICEROS ESCRCHADOS GARABATOS *6",
-    "category": "Escolar",
-    "page": 19,
-    "image": "imagenes/producto_0166.jpg",
-    "photo": "imagenes/foto_0166.jpg",
-    "sort_index": 166
   },
   {
     "ref": 176,
@@ -1503,15 +1260,6 @@
     "sort_index": 167
   },
   {
-    "ref": 177,
-    "name": "LAPICERO RETRACTIL KLIPP *12 ROJO NEGRO AZUL",
-    "category": "Escolar",
-    "page": 19,
-    "image": "imagenes/producto_0168.jpg",
-    "photo": "imagenes/foto_0168.jpg",
-    "sort_index": 168
-  },
-  {
     "ref": 178,
     "name": "LAPICERO POLO X12",
     "category": "Escolar",
@@ -1519,15 +1267,6 @@
     "image": "imagenes/producto_0169.jpg",
     "photo": "imagenes/foto_0169.jpg",
     "sort_index": 169
-  },
-  {
-    "ref": 179,
-    "name": "LAPIZ PORTAMINAS POINTERX12",
-    "category": "Escolar",
-    "page": 19,
-    "image": "imagenes/producto_0170.jpg",
-    "photo": "imagenes/foto_0170.jpg",
-    "sort_index": 170
   },
   {
     "ref": 180,
@@ -1548,15 +1287,6 @@
     "sort_index": 172
   },
   {
-    "ref": 182,
-    "name": "LAPICERO BIC CRISTAL *12 UNDS ROJO NEGRO AZUL",
-    "category": "Escolar",
-    "page": 20,
-    "image": "imagenes/producto_0173.jpg",
-    "photo": "imagenes/foto_0173.jpg",
-    "sort_index": 173
-  },
-  {
     "ref": 183,
     "name": "LAPICERO BIC ECO RETRACTILNEGRO X12 UND",
     "category": "Escolar",
@@ -1573,42 +1303,6 @@
     "image": "imagenes/producto_0175.jpg",
     "photo": "imagenes/foto_0175.jpg",
     "sort_index": 175
-  },
-  {
-    "ref": 185,
-    "name": "LAPIZ PORTAMINAS MECHANICAL 12 PIEZAS",
-    "category": "Escolar",
-    "page": 20,
-    "image": "imagenes/producto_0176.jpg",
-    "photo": "imagenes/foto_0176.jpg",
-    "sort_index": 176
-  },
-  {
-    "ref": 186,
-    "name": "LAPIZ PORTAMINAS BIC SHIMMER 0.5 12 UND",
-    "category": "Escolar",
-    "page": 20,
-    "image": "imagenes/producto_0177.jpg",
-    "photo": "imagenes/foto_0177.jpg",
-    "sort_index": 177
-  },
-  {
-    "ref": 187,
-    "name": "PORTAMINAS 0.5 PAQUETE X24 PIEZAS",
-    "category": "Escolar",
-    "page": 20,
-    "image": "imagenes/producto_0178.jpg",
-    "photo": "imagenes/foto_0178.jpg",
-    "sort_index": 178
-  },
-  {
-    "ref": 188,
-    "name": "LAPICERO PAPERMATE MAXIGEL RETRACTIL 0.7MM (ROJO, AZUL, NEGRO) X 12 UND",
-    "category": "Escolar",
-    "page": 20,
-    "image": "imagenes/producto_0179.jpg",
-    "photo": "imagenes/foto_0179.jpg",
-    "sort_index": 179
   },
   {
     "ref": 189,
@@ -1719,51 +1413,6 @@
     "sort_index": 191
   },
   {
-    "ref": 201,
-    "name": "BORRADOR TINTA Y LAPIZ PAPER-MATE",
-    "category": "Escolar",
-    "page": 22,
-    "image": "imagenes/producto_0192.jpg",
-    "photo": "imagenes/foto_0192.jpg",
-    "sort_index": 192
-  },
-  {
-    "ref": 202,
-    "name": "RESALTADOR KLIPP *10 UNDS",
-    "category": "Escolar",
-    "page": 22,
-    "image": "imagenes/producto_0193.jpg",
-    "photo": "imagenes/foto_0193.jpg",
-    "sort_index": 193
-  },
-  {
-    "ref": 203,
-    "name": "BORRADOR PUNTAS INTERCAMBIABLES *12 UNDS",
-    "category": "Escolar",
-    "page": 22,
-    "image": "imagenes/producto_0194.jpg",
-    "photo": "imagenes/foto_0194.jpg",
-    "sort_index": 194
-  },
-  {
-    "ref": 204,
-    "name": "BORRADOR FLUORECENTE GARABATOS",
-    "category": "Escolar",
-    "page": 22,
-    "image": "imagenes/producto_0195.jpg",
-    "photo": "imagenes/foto_0195.jpg",
-    "sort_index": 195
-  },
-  {
-    "ref": 205,
-    "name": "LAPICEROS CUTE ENDISEÑOS VARIADOS",
-    "category": "Escolar",
-    "page": 22,
-    "image": "imagenes/producto_0196.jpg",
-    "photo": "imagenes/foto_0196.jpg",
-    "sort_index": 196
-  },
-  {
     "ref": 206,
     "name": "LAPICEROS CON SOPORTE DISEÑO JIRAFAS Y DINOSAURIO",
     "category": "Escolar",
@@ -1807,24 +1456,6 @@
     "image": "imagenes/producto_0201.jpg",
     "photo": "imagenes/foto_0201.jpg",
     "sort_index": 201
-  },
-  {
-    "ref": 211,
-    "name": "PAQUETE DE MARCADORES CON DIBUJO",
-    "category": "Nuevo escolar",
-    "page": 23,
-    "image": "imagenes/producto_0202.jpg",
-    "photo": "imagenes/foto_0202.jpg",
-    "sort_index": 202
-  },
-  {
-    "ref": 212,
-    "name": "TABLERO MAGICO CON HORARIO Y TABLAS MULTIPLICAR",
-    "category": "Nuevo escolar",
-    "page": 23,
-    "image": "imagenes/producto_0203.jpg",
-    "photo": "imagenes/foto_0203.jpg",
-    "sort_index": 203
   },
   {
     "ref": 213,
@@ -1935,15 +1566,6 @@
     "sort_index": 215
   },
   {
-    "ref": 225,
-    "name": "CORRECTOR MARFIL *12 UNDS",
-    "category": "Escolar",
-    "page": 24,
-    "image": "imagenes/producto_0216.jpg",
-    "photo": "imagenes/foto_0216.jpg",
-    "sort_index": 216
-  },
-  {
     "ref": 226,
     "name": "SACAPUNTA DOBLE SERVICIO KLIPP *12",
     "category": "Escolar",
@@ -1989,33 +1611,6 @@
     "sort_index": 221
   },
   {
-    "ref": 231,
-    "name": "SACAPUNTA METALICO X24",
-    "category": "Escolar",
-    "page": 25,
-    "image": "imagenes/producto_0222.jpg",
-    "photo": "imagenes/foto_0222.jpg",
-    "sort_index": 222
-  },
-  {
-    "ref": 232,
-    "name": "SACAPUNTA ARTESCO(AMARILLO, VERDE, AZUL)",
-    "category": "Escolar",
-    "page": 25,
-    "image": "imagenes/producto_0223.jpg",
-    "photo": "imagenes/foto_0223.jpg",
-    "sort_index": 223
-  },
-  {
-    "ref": 233,
-    "name": "SACAPUNTA SURTIDO SENCILLO *72 UNDS KLIPP",
-    "category": "Escolar",
-    "page": 25,
-    "image": "imagenes/producto_0224.jpg",
-    "photo": "imagenes/foto_0224.jpg",
-    "sort_index": 224
-  },
-  {
     "ref": 234,
     "name": "SACAPUNTA CON DEPOSITO RECTANGULAR KLIPP *24",
     "category": "Escolar",
@@ -2023,51 +1618,6 @@
     "image": "imagenes/producto_0225.jpg",
     "photo": "imagenes/foto_0225.jpg",
     "sort_index": 225
-  },
-  {
-    "ref": 235,
-    "name": "SACAPUNTA KLIPP DOBLE SERVICIO *12UND",
-    "category": "Nuevo escolar",
-    "page": 26,
-    "image": "imagenes/producto_0226.jpg",
-    "photo": "imagenes/foto_0226.jpg",
-    "sort_index": 226
-  },
-  {
-    "ref": 236,
-    "name": "SACAPUNTA DOBLE SERVICIO KLIPP *12 UNDS",
-    "category": "Nuevo escolar",
-    "page": 26,
-    "image": "imagenes/producto_0227.jpg",
-    "photo": "imagenes/foto_0227.jpg",
-    "sort_index": 227
-  },
-  {
-    "ref": 237,
-    "name": "SACAPUNTA KLIPP DOBLE SERVICIO OVALADO *12 UNDS",
-    "category": "Nuevo escolar",
-    "page": 26,
-    "image": "imagenes/producto_0228.jpg",
-    "photo": "imagenes/foto_0228.jpg",
-    "sort_index": 228
-  },
-  {
-    "ref": 238,
-    "name": "SACAPUNTA KLIPP OVALADO 1 SERVICIO *12 UNDS",
-    "category": "Nuevo escolar",
-    "page": 26,
-    "image": "imagenes/producto_0229.jpg",
-    "photo": "imagenes/foto_0229.jpg",
-    "sort_index": 229
-  },
-  {
-    "ref": 239,
-    "name": "SACAPUNTA KLIPP CILINDRO CON TAPA *12 UNDS",
-    "category": "Nuevo escolar",
-    "page": 26,
-    "image": "imagenes/producto_0230.jpg",
-    "photo": "imagenes/foto_0230.jpg",
-    "sort_index": 230
   },
   {
     "ref": 240,
@@ -2086,96 +1636,6 @@
     "image": "imagenes/producto_0232.jpg",
     "photo": "imagenes/foto_0232.jpg",
     "sort_index": 232
-  },
-  {
-    "ref": 242,
-    "name": "SACAPUNTA KLIPP DOBLE SERVICIO CORAZON *12 UNDS",
-    "category": "Nuevo escolar",
-    "page": 26,
-    "image": "imagenes/producto_0233.jpg",
-    "photo": "imagenes/foto_0233.jpg",
-    "sort_index": 233
-  },
-  {
-    "ref": 1,
-    "name": "SACAPUNTA KLIPP 243 SERVICIO HEXAGONAL *12 UNDS",
-    "category": "Nuevo escolar",
-    "page": 26,
-    "image": "imagenes/producto_0234.jpg",
-    "photo": "imagenes/foto_0234.jpg",
-    "sort_index": 234
-  },
-  {
-    "ref": 244,
-    "name": "PLASTILINA BARRA DE 250g MARFIL",
-    "category": "Escolar",
-    "page": 27,
-    "image": "imagenes/producto_0235.jpg",
-    "photo": "imagenes/foto_0235.jpg",
-    "sort_index": 235
-  },
-  {
-    "ref": 245,
-    "name": "PLASTILINA BARRA DE 55 g MARFIL",
-    "category": "Escolar",
-    "page": 27,
-    "image": "imagenes/producto_0236.jpg",
-    "photo": "imagenes/foto_0236.jpg",
-    "sort_index": 236
-  },
-  {
-    "ref": 246,
-    "name": "PLASTILINA CAJA CORTA X9 KLIPP",
-    "category": "Escolar",
-    "page": 27,
-    "image": "imagenes/producto_0237.jpg",
-    "photo": "imagenes/foto_0237.jpg",
-    "sort_index": 237
-  },
-  {
-    "ref": 247,
-    "name": "PLASTILINA CAJA LARGAX12 KLIPP",
-    "category": "Escolar",
-    "page": 27,
-    "image": "imagenes/producto_0238.jpg",
-    "photo": "imagenes/foto_0238.jpg",
-    "sort_index": 238
-  },
-  {
-    "ref": 248,
-    "name": "248.PLASTILINA CORTA*9 95G",
-    "category": "Escolar",
-    "page": 27,
-    "image": "imagenes/producto_0239.jpg",
-    "photo": "imagenes/foto_0239.jpg",
-    "sort_index": 239
-  },
-  {
-    "ref": 249,
-    "name": "PLASTILINA JUMBO KLIPP *12 UND KLIPP",
-    "category": "Escolar",
-    "page": 27,
-    "image": "imagenes/producto_0240.jpg",
-    "photo": "imagenes/foto_0240.jpg",
-    "sort_index": 240
-  },
-  {
-    "ref": 250,
-    "name": "250.PLASTILINA NEON",
-    "category": "Escolar",
-    "page": 27,
-    "image": "imagenes/producto_0241.jpg",
-    "photo": "imagenes/foto_0241.jpg",
-    "sort_index": 241
-  },
-  {
-    "ref": 251,
-    "name": "TIJERA PUNTA ROMA ECONÓMICA",
-    "category": "Escolar",
-    "page": 27,
-    "image": "imagenes/producto_0242.jpg",
-    "photo": "imagenes/foto_0242.jpg",
-    "sort_index": 242
   },
   {
     "ref": 252,
@@ -2203,51 +1663,6 @@
     "image": "imagenes/producto_0245.jpg",
     "photo": "imagenes/foto_0245.jpg",
     "sort_index": 245
-  },
-  {
-    "ref": 255,
-    "name": "TIJERAS PEQUEÑAS DE MODISTERIA",
-    "category": "Escolar",
-    "page": 28,
-    "image": "imagenes/producto_0246.jpg",
-    "photo": "imagenes/foto_0246.jpg",
-    "sort_index": 246
-  },
-  {
-    "ref": 256,
-    "name": "TIJERAS 9\" CACHA NEGRA GARABATOS",
-    "category": "Escolar",
-    "page": 28,
-    "image": "imagenes/producto_0247.jpg",
-    "photo": "imagenes/foto_0247.jpg",
-    "sort_index": 247
-  },
-  {
-    "ref": 257,
-    "name": "TIJERAS 7\" CACHA NEGRA GARABATOS",
-    "category": "Escolar",
-    "page": 28,
-    "image": "imagenes/producto_0248.jpg",
-    "photo": "imagenes/foto_0248.jpg",
-    "sort_index": 248
-  },
-  {
-    "ref": 258,
-    "name": "TIJERAS ARTESCO NEGRAS",
-    "category": "Escolar",
-    "page": 28,
-    "image": "imagenes/producto_0249.jpg",
-    "photo": "imagenes/foto_0249.jpg",
-    "sort_index": 249
-  },
-  {
-    "ref": 259,
-    "name": "TIJERAS ARTESCO AZUL",
-    "category": "Escolar",
-    "page": 28,
-    "image": "imagenes/producto_0250.jpg",
-    "photo": "imagenes/foto_0250.jpg",
-    "sort_index": 250
   },
   {
     "ref": 260,
@@ -2313,24 +1728,6 @@
     "sort_index": 257
   },
   {
-    "ref": 267,
-    "name": "BISTURÍ GRANDE PASTA ECONÓMICO",
-    "category": "Escolar",
-    "page": 29,
-    "image": "imagenes/producto_0258.jpg",
-    "photo": "imagenes/foto_0258.jpg",
-    "sort_index": 258
-  },
-  {
-    "ref": 268,
-    "name": "PEQUEÑO PASTA BISTURY ECONÓMICO",
-    "category": "Escolar",
-    "page": 29,
-    "image": "imagenes/producto_0259.jpg",
-    "photo": "imagenes/foto_0259.jpg",
-    "sort_index": 259
-  },
-  {
     "ref": 269,
     "name": "BISTURY PUNTA DE LANZA",
     "category": "Escolar",
@@ -2338,96 +1735,6 @@
     "image": "imagenes/producto_0260.jpg",
     "photo": "imagenes/foto_0260.jpg",
     "sort_index": 260
-  },
-  {
-    "ref": 270,
-    "name": "REGLA DE PASTA",
-    "category": "Escolar",
-    "page": 29,
-    "image": "imagenes/producto_0261.jpg",
-    "photo": "imagenes/foto_0261.jpg",
-    "sort_index": 261
-  },
-  {
-    "ref": 271,
-    "name": "JUEGO GEOMETRICO",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0262.jpg",
-    "photo": "imagenes/foto_0262.jpg",
-    "sort_index": 262
-  },
-  {
-    "ref": 272,
-    "name": "JUEGO MEOMETRICO TRAZOS",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0263.jpg",
-    "photo": "imagenes/foto_0263.jpg",
-    "sort_index": 263
-  },
-  {
-    "ref": 273,
-    "name": "ESCALÍMETRO",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0264.jpg",
-    "photo": "imagenes/foto_0264.jpg",
-    "sort_index": 264
-  },
-  {
-    "ref": 274,
-    "name": "REGLA MADERA",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0265.jpg",
-    "photo": "imagenes/foto_0265.jpg",
-    "sort_index": 265
-  },
-  {
-    "ref": 275,
-    "name": "REGLA \"MORRISON\" OVALOS",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0266.jpg",
-    "photo": "imagenes/foto_0266.jpg",
-    "sort_index": 266
-  },
-  {
-    "ref": 276,
-    "name": "SET DE COMPÁS TRANSPORTADOR Y MINAS",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0267.jpg",
-    "photo": "imagenes/foto_0267.jpg",
-    "sort_index": 267
-  },
-  {
-    "ref": 277,
-    "name": "JUEGO GEOMETRICO SUPERFEXIBLE",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0268.jpg",
-    "photo": "imagenes/foto_0268.jpg",
-    "sort_index": 268
-  },
-  {
-    "ref": 278,
-    "name": "TRANSPORTADOR ARTESCO 360°x10CM",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0269.jpg",
-    "photo": "imagenes/foto_0269.jpg",
-    "sort_index": 269
-  },
-  {
-    "ref": 279,
-    "name": "JUEGOGEOMÉTRICO ARTESCO FLEXIBLE",
-    "category": "Escolar",
-    "page": 30,
-    "image": "imagenes/producto_0270.jpg",
-    "photo": "imagenes/foto_0270.jpg",
-    "sort_index": 270
   },
   {
     "ref": 280,
@@ -2502,15 +1809,6 @@
     "sort_index": 278
   },
   {
-    "ref": 288,
-    "name": "COMPÁS ESCOLAR MARFIL 3 PIEZAS",
-    "category": "Escolar",
-    "page": 31,
-    "image": "imagenes/producto_0279.jpg",
-    "photo": "imagenes/foto_0279.jpg",
-    "sort_index": 279
-  },
-  {
     "ref": 289,
     "name": "MARCADORES MULTITRAZOS MARFIL 12 UND",
     "category": "Escolar",
@@ -2563,15 +1861,6 @@
     "image": "imagenes/producto_0285.jpg",
     "photo": "imagenes/foto_0285.jpg",
     "sort_index": 285
-  },
-  {
-    "ref": 295,
-    "name": "MARCADOR VINILO GARABATOS",
-    "category": "Escolar",
-    "page": 32,
-    "image": "imagenes/producto_0286.jpg",
-    "photo": "imagenes/foto_0286.jpg",
-    "sort_index": 286
   },
   {
     "ref": 296,
@@ -2718,15 +2007,6 @@
     "sort_index": 302
   },
   {
-    "ref": 312,
-    "name": "RESALTADOR DOBLE PUNTA KLIPP",
-    "category": "Escolar",
-    "page": 34,
-    "image": "imagenes/producto_0303.jpg",
-    "photo": "imagenes/foto_0303.jpg",
-    "sort_index": 303
-  },
-  {
     "ref": 313,
     "name": "MARCADORES MAGICOS KIUT",
     "category": "Escolar",
@@ -2754,24 +2034,6 @@
     "sort_index": 306
   },
   {
-    "ref": 316,
-    "name": "PLUMON MARFIL *6 UNDS",
-    "category": "Escolar",
-    "page": 35,
-    "image": "imagenes/producto_0307.jpg",
-    "photo": "imagenes/foto_0307.jpg",
-    "sort_index": 307
-  },
-  {
-    "ref": 317,
-    "name": "PLUMON MARFIL *18 UNDS",
-    "category": "Escolar",
-    "page": 35,
-    "image": "imagenes/producto_0308.jpg",
-    "photo": "imagenes/foto_0308.jpg",
-    "sort_index": 308
-  },
-  {
     "ref": 318,
     "name": "RESALTADOR BORRABLE *6 UNDS",
     "category": "Escolar",
@@ -2779,15 +2041,6 @@
     "image": "imagenes/producto_0309.jpg",
     "photo": "imagenes/foto_0309.jpg",
     "sort_index": 309
-  },
-  {
-    "ref": 319,
-    "name": "PLUMONES LAVABLES KLIPP *12 UNDS",
-    "category": "Escolar",
-    "page": 35,
-    "image": "imagenes/producto_0310.jpg",
-    "photo": "imagenes/foto_0310.jpg",
-    "sort_index": 310
   },
   {
     "ref": 320,
@@ -2799,15 +2052,6 @@
     "sort_index": 311
   },
   {
-    "ref": 321,
-    "name": "MARCADOR BORRABLEMARFIL (NEGRO,ROJO,AZUL,VERDE)",
-    "category": "Escolar",
-    "page": 35,
-    "image": "imagenes/producto_0312.jpg",
-    "photo": "imagenes/foto_0312.jpg",
-    "sort_index": 312
-  },
-  {
     "ref": 322,
     "name": "MARCADOR PERMANENTESHARPIE PUNTA FINA(ROJO,AZUL, NEGRO) 12 UND",
     "category": "Escolar",
@@ -2815,24 +2059,6 @@
     "image": "imagenes/producto_0313.jpg",
     "photo": "imagenes/foto_0313.jpg",
     "sort_index": 313
-  },
-  {
-    "ref": 323,
-    "name": "MARCADOR PERMANENTE SHARPIE PUNTA GRUESA (AZUL, ROJO, NEGRO) 12 UND",
-    "category": "Escolar",
-    "page": 35,
-    "image": "imagenes/producto_0314.jpg",
-    "photo": "imagenes/foto_0314.jpg",
-    "sort_index": 314
-  },
-  {
-    "ref": 324,
-    "name": "MARCADOR RECARGABLE MARFIL (AZUL, ROJO, VERDE,NEGRO) 12 UND",
-    "category": "Escolar",
-    "page": 35,
-    "image": "imagenes/producto_0315.jpg",
-    "photo": "imagenes/foto_0315.jpg",
-    "sort_index": 315
   },
   {
     "ref": null,
@@ -2851,15 +2077,6 @@
     "image": "imagenes/producto_0317.jpg",
     "photo": "imagenes/foto_0317.jpg",
     "sort_index": 317
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 36,
-    "image": "imagenes/producto_0318.jpg",
-    "photo": "imagenes/foto_0318.jpg",
-    "sort_index": 318
   },
   {
     "ref": 3,
@@ -2916,15 +2133,6 @@
     "sort_index": 324
   },
   {
-    "ref": 72,
-    "name": "COLORES KLIPP X 326 CAJA METALICA",
-    "category": "Escolar",
-    "page": 37,
-    "image": "imagenes/producto_0325.jpg",
-    "photo": "imagenes/foto_0325.jpg",
-    "sort_index": 325
-  },
-  {
     "ref": 327,
     "name": "COLORES KLIPP *36 UND",
     "category": "Escolar",
@@ -2943,15 +2151,6 @@
     "sort_index": 327
   },
   {
-    "ref": 12,
-    "name": "COLORES NORMA UND 329",
-    "category": "Escolar",
-    "page": 37,
-    "image": "imagenes/producto_0328.jpg",
-    "photo": "imagenes/foto_0328.jpg",
-    "sort_index": 328
-  },
-  {
     "ref": 330,
     "name": "COLORES NORMA13+2 COLORES",
     "category": "Escolar",
@@ -2968,42 +2167,6 @@
     "image": "imagenes/producto_0330.jpg",
     "photo": "imagenes/foto_0330.jpg",
     "sort_index": 330
-  },
-  {
-    "ref": 332,
-    "name": "COLORES KLIPP TRIANGULARES 12 UND",
-    "category": "Escolar",
-    "page": 37,
-    "image": "imagenes/producto_0331.jpg",
-    "photo": "imagenes/foto_0331.jpg",
-    "sort_index": 331
-  },
-  {
-    "ref": 333,
-    "name": "COLORES KLIPP TRIANGULARES DOBLE PUNTA 12 UND 333",
-    "category": "Escolar",
-    "page": 37,
-    "image": "imagenes/producto_0332.jpg",
-    "photo": "imagenes/foto_0332.jpg",
-    "sort_index": 332
-  },
-  {
-    "ref": 334,
-    "name": "COLORES KLIPP FASHION *16 UND",
-    "category": "Escolar",
-    "page": 37,
-    "image": "imagenes/producto_0333.jpg",
-    "photo": "imagenes/foto_0333.jpg",
-    "sort_index": 333
-  },
-  {
-    "ref": 36,
-    "name": "COLORES ARTESCO UND 335",
-    "category": "Escolar",
-    "page": 38,
-    "image": "imagenes/producto_0334.jpg",
-    "photo": "imagenes/foto_0334.jpg",
-    "sort_index": 334
   },
   {
     "ref": 48,
@@ -3049,42 +2212,6 @@
     "image": "imagenes/producto_0339.jpg",
     "photo": "imagenes/foto_0339.jpg",
     "sort_index": 339
-  },
-  {
-    "ref": 341,
-    "name": "341.CRAYONES JUMBO *12 UND",
-    "category": "Escolar",
-    "page": 38,
-    "image": "imagenes/producto_0340.jpg",
-    "photo": "imagenes/foto_0340.jpg",
-    "sort_index": 340
-  },
-  {
-    "ref": 342,
-    "name": "CRAYONES JUMBO *6 UND",
-    "category": "Escolar",
-    "page": 38,
-    "image": "imagenes/producto_0341.jpg",
-    "photo": "imagenes/foto_0341.jpg",
-    "sort_index": 341
-  },
-  {
-    "ref": 343,
-    "name": "CRAYONES COLORES INTENSOS X12",
-    "category": "Escolar",
-    "page": 38,
-    "image": "imagenes/producto_0342.jpg",
-    "photo": "imagenes/foto_0342.jpg",
-    "sort_index": 342
-  },
-  {
-    "ref": 344,
-    "name": "COLORES IMÁGENES X12",
-    "category": "Nuevo escolar",
-    "page": 39,
-    "image": "imagenes/producto_0343.jpg",
-    "photo": "imagenes/foto_0343.jpg",
-    "sort_index": 343
   },
   {
     "ref": 345,
@@ -4131,24 +3258,6 @@
     "sort_index": 459
   },
   {
-    "ref": 461,
-    "name": "LIBRO DE TORNILLO (NEGRO Y AZUL)",
-    "category": "Variedades",
-    "page": 52,
-    "image": "imagenes/producto_0460.jpg",
-    "photo": "imagenes/foto_0460.jpg",
-    "sort_index": 460
-  },
-  {
-    "ref": 462,
-    "name": "BONO DE VENTA AUTOCOPIANTE 1/32",
-    "category": "Variedades",
-    "page": 52,
-    "image": "imagenes/producto_0461.jpg",
-    "photo": "imagenes/foto_0461.jpg",
-    "sort_index": 461
-  },
-  {
     "ref": 463,
     "name": "BONO DE VENTA . 1/16 X40H",
     "category": "Variedades",
@@ -4554,15 +3663,6 @@
     "sort_index": 506
   },
   {
-    "ref": 508,
-    "name": "VINILOS ACRÍLICOS . PEQUEÑOS MARFIL 33GR (TODOS LOS COLORES)",
-    "category": "Escolar",
-    "page": 57,
-    "image": "imagenes/producto_0507.jpg",
-    "photo": "imagenes/foto_0507.jpg",
-    "sort_index": 507
-  },
-  {
     "ref": 509,
     "name": "VITRALES DE TODOS LOS 509 COLORES, SOLVENTE FUSIÓN Y VITRAL NEUTRO",
     "category": "Escolar",
@@ -4651,15 +3751,6 @@
     "image": "imagenes/producto_0517.jpg",
     "photo": "imagenes/foto_0517.jpg",
     "sort_index": 517
-  },
-  {
-    "ref": 519,
-    "name": "PINTURA NEON 125",
-    "category": "Arte",
-    "page": 58,
-    "image": "imagenes/producto_0518.jpg",
-    "photo": "imagenes/foto_0518.jpg",
-    "sort_index": 518
   },
   {
     "ref": 5,
@@ -4860,24 +3951,6 @@
     "sort_index": 540
   },
   {
-    "ref": 542,
-    "name": "GLOBO TERRAQUEO 2 TAMAÑOS",
-    "category": "Variedades",
-    "page": 61,
-    "image": "imagenes/producto_0541.jpg",
-    "photo": "imagenes/foto_0541.jpg",
-    "sort_index": 541
-  },
-  {
-    "ref": 543,
-    "name": "ALFILERES",
-    "category": "Variedades",
-    "page": 61,
-    "image": "imagenes/producto_0542.jpg",
-    "photo": "imagenes/foto_0542.jpg",
-    "sort_index": 542
-  },
-  {
     "ref": 544,
     "name": "FICHAS DE JUEGO POKER",
     "category": "Variedades",
@@ -4941,42 +4014,6 @@
     "sort_index": 549
   },
   {
-    "ref": 551,
-    "name": "Nombre por confirmar",
-    "category": "Variedades",
-    "page": 62,
-    "image": "imagenes/producto_0550.jpg",
-    "photo": "imagenes/foto_0550.jpg",
-    "sort_index": 550
-  },
-  {
-    "ref": 552,
-    "name": "Nombre por confirmar",
-    "category": "Variedades",
-    "page": 62,
-    "image": "imagenes/producto_0551.jpg",
-    "photo": "imagenes/foto_0551.jpg",
-    "sort_index": 551
-  },
-  {
-    "ref": 553,
-    "name": "LLAVEROS OVALADOS CON FIGURAS",
-    "category": "Variedades",
-    "page": 62,
-    "image": "imagenes/producto_0552.jpg",
-    "photo": "imagenes/foto_0552.jpg",
-    "sort_index": 552
-  },
-  {
-    "ref": 554,
-    "name": "GORRA",
-    "category": "Variedades",
-    "page": 62,
-    "image": "imagenes/producto_0553.jpg",
-    "photo": "imagenes/foto_0553.jpg",
-    "sort_index": 553
-  },
-  {
     "ref": 555,
     "name": "TETERO GRANDE",
     "category": "Variedades",
@@ -5011,15 +4048,6 @@
     "image": "imagenes/producto_0557.jpg",
     "photo": "imagenes/foto_0557.jpg",
     "sort_index": 557
-  },
-  {
-    "ref": 559,
-    "name": "CAJA DE PALILLOS POLAR 559",
-    "category": "Variedades",
-    "page": 62,
-    "image": "imagenes/producto_0558.jpg",
-    "photo": "imagenes/foto_0558.jpg",
-    "sort_index": 558
   },
   {
     "ref": 560,
@@ -5112,222 +4140,6 @@
     "sort_index": 568
   },
   {
-    "ref": 570,
-    "name": "LIMPIAVIDRIOS FULLFRESH 500CM3",
-    "category": "Hogar",
-    "page": 64,
-    "image": "imagenes/producto_0569.jpg",
-    "photo": "imagenes/foto_0569.jpg",
-    "sort_index": 569
-  },
-  {
-    "ref": 571,
-    "name": "LAVALOZA LIQUIDO FULL FRESH 500CM3",
-    "category": "Hogar",
-    "page": 64,
-    "image": "imagenes/producto_0570.jpg",
-    "photo": "imagenes/foto_0570.jpg",
-    "sort_index": 570
-  },
-  {
-    "ref": 572,
-    "name": "LIMPIADOR DESINFECTANTE FULL FRESH 1000CM3",
-    "category": "Hogar",
-    "page": 64,
-    "image": "imagenes/producto_0571.jpg",
-    "photo": "imagenes/foto_0571.jpg",
-    "sort_index": 571
-  },
-  {
-    "ref": 573,
-    "name": "SUAVIZANTE FULLFRESH 1000CM3",
-    "category": "Hogar",
-    "page": 64,
-    "image": "imagenes/producto_0572.jpg",
-    "photo": "imagenes/foto_0572.jpg",
-    "sort_index": 572
-  },
-  {
-    "ref": 574,
-    "name": "LIMPIADOR DESINFECTANTE FULL FRESH 2000CM3",
-    "category": "Hogar",
-    "page": 64,
-    "image": "imagenes/producto_0573.jpg",
-    "photo": "imagenes/foto_0573.jpg",
-    "sort_index": 573
-  },
-  {
-    "ref": 575,
-    "name": "JABON LIQUIDO ANTIBACTERIAL SIBYLA 1000ML",
-    "category": "Hogar",
-    "page": 64,
-    "image": "imagenes/producto_0574.jpg",
-    "photo": "imagenes/foto_0574.jpg",
-    "sort_index": 574
-  },
-  {
-    "ref": 576,
-    "name": "LAVALOZA LIQUIDO FULLFRESH 2000CM3",
-    "category": "Hogar",
-    "page": 64,
-    "image": "imagenes/producto_0575.jpg",
-    "photo": "imagenes/foto_0575.jpg",
-    "sort_index": 575
-  },
-  {
-    "ref": 577,
-    "name": "JABON LIQUIDO ANTIBACTERIAL 500ML",
-    "category": "Hogar",
-    "page": 64,
-    "image": "imagenes/producto_0576.jpg",
-    "photo": "imagenes/foto_0576.jpg",
-    "sort_index": 576
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0577.jpg",
-    "photo": "imagenes/foto_0577.jpg",
-    "sort_index": 577
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0578.jpg",
-    "photo": "imagenes/foto_0578.jpg",
-    "sort_index": 578
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0579.jpg",
-    "photo": "imagenes/foto_0579.jpg",
-    "sort_index": 579
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0580.jpg",
-    "photo": "imagenes/foto_0580.jpg",
-    "sort_index": 580
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0581.jpg",
-    "photo": "imagenes/foto_0581.jpg",
-    "sort_index": 581
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0582.jpg",
-    "photo": "imagenes/foto_0582.jpg",
-    "sort_index": 582
-  },
-  {
-    "ref": 578,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0583.jpg",
-    "photo": "imagenes/foto_0583.jpg",
-    "sort_index": 583
-  },
-  {
-    "ref": 1,
-    "name": "PINTO x 1.000",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0584.jpg",
-    "photo": "imagenes/foto_0584.jpg",
-    "sort_index": 584
-  },
-  {
-    "ref": null,
-    "name": "cm",
-    "category": "Catálogo general",
-    "page": 65,
-    "image": "imagenes/producto_0585.jpg",
-    "photo": "imagenes/foto_0585.jpg",
-    "sort_index": 585
-  },
-  {
-    "ref": 579,
-    "name": "LAVALOZA EN CREMAFULL FRESH",
-    "category": "Hogar",
-    "page": 66,
-    "image": "imagenes/producto_0586.jpg",
-    "photo": "imagenes/foto_0586.jpg",
-    "sort_index": 586
-  },
-  {
-    "ref": 580,
-    "name": "BLANQUEADOR DESINFECTANTE FULL FRESH",
-    "category": "Hogar",
-    "page": 66,
-    "image": "imagenes/producto_0587.jpg",
-    "photo": "imagenes/foto_0587.jpg",
-    "sort_index": 587
-  },
-  {
-    "ref": 581,
-    "name": "ESPONJA MULITUSOS TRABAJO PESADO",
-    "category": "Hogar",
-    "page": 66,
-    "image": "imagenes/producto_0588.jpg",
-    "photo": "imagenes/foto_0588.jpg",
-    "sort_index": 588
-  },
-  {
-    "ref": 582,
-    "name": "ESPONJA MULTIUSOS",
-    "category": "Hogar",
-    "page": 66,
-    "image": "imagenes/producto_0589.jpg",
-    "photo": "imagenes/foto_0589.jpg",
-    "sort_index": 589
-  },
-  {
-    "ref": 583,
-    "name": "PAÑO ABRASIVO",
-    "category": "Hogar",
-    "page": 66,
-    "image": "imagenes/producto_0590.jpg",
-    "photo": "imagenes/foto_0590.jpg",
-    "sort_index": 590
-  },
-  {
-    "ref": 584,
-    "name": "CEPILLO DIAMANTE",
-    "category": "Hogar",
-    "page": 66,
-    "image": "imagenes/producto_0591.jpg",
-    "photo": "imagenes/foto_0591.jpg",
-    "sort_index": 591
-  },
-  {
-    "ref": 585,
-    "name": "RECOGEDOR “PINTO”",
-    "category": "Hogar",
-    "page": 66,
-    "image": "imagenes/producto_0592.jpg",
-    "photo": "imagenes/foto_0592.jpg",
-    "sort_index": 592
-  },
-  {
     "ref": 586,
     "name": "RASTRILLO “PINTO”",
     "category": "Hogar",
@@ -5335,105 +4147,6 @@
     "image": "imagenes/producto_0593.jpg",
     "photo": "imagenes/foto_0593.jpg",
     "sort_index": 593
-  },
-  {
-    "ref": 587,
-    "name": "GUANTES DE GOMA",
-    "category": "Hogar",
-    "page": 66,
-    "image": "imagenes/producto_0594.jpg",
-    "photo": "imagenes/foto_0594.jpg",
-    "sort_index": 594
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0595.jpg",
-    "photo": "imagenes/foto_0595.jpg",
-    "sort_index": 595
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0596.jpg",
-    "photo": "imagenes/foto_0596.jpg",
-    "sort_index": 596
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0597.jpg",
-    "photo": "imagenes/foto_0597.jpg",
-    "sort_index": 597
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0598.jpg",
-    "photo": "imagenes/foto_0598.jpg",
-    "sort_index": 598
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0599.jpg",
-    "photo": "imagenes/foto_0599.jpg",
-    "sort_index": 599
-  },
-  {
-    "ref": null,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0600.jpg",
-    "photo": "imagenes/foto_0600.jpg",
-    "sort_index": 600
-  },
-  {
-    "ref": 588,
-    "name": "Nombre por confirmar",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0601.jpg",
-    "photo": "imagenes/foto_0601.jpg",
-    "sort_index": 601
-  },
-  {
-    "ref": null,
-    "name": "ESCOBA Y CONVENCIONAL",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0602.jpg",
-    "photo": "imagenes/foto_0602.jpg",
-    "sort_index": 602
-  },
-  {
-    "ref": null,
-    "name": "TRAPERO",
-    "category": "Catálogo general",
-    "page": 67,
-    "image": "imagenes/producto_0603.jpg",
-    "photo": "imagenes/foto_0603.jpg",
-    "sort_index": 603
-  },
-  {
-    "ref": 589,
-    "name": "DETERGENTE PARA ROPA",
-    "category": "Aseo",
-    "page": 68,
-    "image": "imagenes/producto_0604.jpg",
-    "photo": "imagenes/foto_0604.jpg",
-    "sort_index": 604
   },
   {
     "ref": 590,
@@ -5895,15 +4608,6 @@
     "sort_index": 655
   },
   {
-    "ref": 669,
-    "name": "DOMINO GRANDE",
-    "category": "Piñatería",
-    "page": 73,
-    "image": "imagenes/producto_0656.jpg",
-    "photo": "imagenes/foto_0656.jpg",
-    "sort_index": 656
-  },
-  {
     "ref": 670,
     "name": "JUEGO DE PISTOLA CON PINOS",
     "category": "Piñatería",
@@ -5911,15 +4615,6 @@
     "image": "imagenes/producto_0657.jpg",
     "photo": "imagenes/foto_0657.jpg",
     "sort_index": 657
-  },
-  {
-    "ref": 653,
-    "name": "BOLSA DE REGALO GRANDE",
-    "category": "Piñatería",
-    "page": 74,
-    "image": "imagenes/producto_0658.jpg",
-    "photo": "imagenes/foto_0658.jpg",
-    "sort_index": 658
   },
   {
     "ref": 654,
@@ -5967,15 +4662,6 @@
     "sort_index": 663
   },
   {
-    "ref": 659,
-    "name": "VASOS DE FIESTA DECORADOS, DISTINTOS MOTIVOS",
-    "category": "Piñatería",
-    "page": 74,
-    "image": "imagenes/producto_0664.jpg",
-    "photo": "imagenes/foto_0664.jpg",
-    "sort_index": 664
-  },
-  {
     "ref": 7,
     "name": "VASOS FORMOSA oz x50 660",
     "category": "Piñatería",
@@ -6019,15 +4705,6 @@
     "image": "imagenes/producto_0669.jpg",
     "photo": "imagenes/foto_0669.jpg",
     "sort_index": 669
-  },
-  {
-    "ref": 674,
-    "name": "JUEGO DE JENGA",
-    "category": "Piñatería",
-    "page": 75,
-    "image": "imagenes/producto_0670.jpg",
-    "photo": "imagenes/foto_0670.jpg",
-    "sort_index": 670
   },
   {
     "ref": 675,
@@ -6435,42 +5112,6 @@
     "sort_index": 715
   },
   {
-    "ref": 720,
-    "name": "BATERIAS RECARGABLES X3",
-    "category": "Catálogo general",
-    "page": 80,
-    "image": "imagenes/producto_0716.jpg",
-    "photo": "imagenes/foto_0716.jpg",
-    "sort_index": 716
-  },
-  {
-    "ref": 721,
-    "name": "BATERIAS RECARGABLES",
-    "category": "Catálogo general",
-    "page": 80,
-    "image": "imagenes/producto_0717.jpg",
-    "photo": "imagenes/foto_0717.jpg",
-    "sort_index": 717
-  },
-  {
-    "ref": 722,
-    "name": "BATERIAS BETSON",
-    "category": "Catálogo general",
-    "page": 80,
-    "image": "imagenes/producto_0718.jpg",
-    "photo": "imagenes/foto_0718.jpg",
-    "sort_index": 718
-  },
-  {
-    "ref": 723,
-    "name": "TINTA PARA IMPRESORA EPSON",
-    "category": "Catálogo general",
-    "page": 80,
-    "image": "imagenes/producto_0719.jpg",
-    "photo": "imagenes/foto_0719.jpg",
-    "sort_index": 719
-  },
-  {
     "ref": 724,
     "name": "PALOS DE PALETA DE COLORES",
     "category": "Catálogo general",
@@ -6532,15 +5173,6 @@
     "image": "imagenes/producto_0726.jpg",
     "photo": "imagenes/foto_0726.jpg",
     "sort_index": 726
-  },
-  {
-    "ref": 731,
-    "name": "BOLIGRAFOS KUIT X4",
-    "category": "Nuevo escolar",
-    "page": 81,
-    "image": "imagenes/producto_0727.jpg",
-    "photo": "imagenes/foto_0727.jpg",
-    "sort_index": 727
   },
   {
     "ref": 732,
@@ -6606,15 +5238,6 @@
     "sort_index": 734
   },
   {
-    "ref": 739,
-    "name": "MARCADORES DOBLE TRAZO X24",
-    "category": "Catálogo general",
-    "page": 82,
-    "image": "imagenes/producto_0735.jpg",
-    "photo": "imagenes/foto_0735.jpg",
-    "sort_index": 735
-  },
-  {
     "ref": 740,
     "name": "SACAPUNTAS DECORADOS KAWAI",
     "category": "Catálogo general",
@@ -6669,69 +5292,6 @@
     "sort_index": 741
   },
   {
-    "ref": 746,
-    "name": "SACAPUNTAS CON DEPOSITO ZEPPELIN",
-    "category": "Catálogo general",
-    "page": 83,
-    "image": "imagenes/producto_0742.jpg",
-    "photo": "imagenes/foto_0742.jpg",
-    "sort_index": 742
-  },
-  {
-    "ref": 747,
-    "name": "CORECTOR LIQUIDO ZEPPELIN CAJA X12",
-    "category": "Catálogo general",
-    "page": 83,
-    "image": "imagenes/producto_0743.jpg",
-    "photo": "imagenes/foto_0743.jpg",
-    "sort_index": 743
-  },
-  {
-    "ref": 748,
-    "name": "ARCHIVADORA MEDIA CARTA 13 BOLSILLOS KLIPP",
-    "category": "Catálogo general",
-    "page": 83,
-    "image": "imagenes/producto_0744.jpg",
-    "photo": "imagenes/foto_0744.jpg",
-    "sort_index": 744
-  },
-  {
-    "ref": 749,
-    "name": "ORGANIZADOR NEGRO METALICO CIRCULAR CON DIVISIONES",
-    "category": "Catálogo general",
-    "page": 83,
-    "image": "imagenes/producto_0745.jpg",
-    "photo": "imagenes/foto_0745.jpg",
-    "sort_index": 745
-  },
-  {
-    "ref": 750,
-    "name": "ORGANIZADOR NEGRO , ROSA Y AZUL METALICO CIRCULAR",
-    "category": "Catálogo general",
-    "page": 83,
-    "image": "imagenes/producto_0746.jpg",
-    "photo": "imagenes/foto_0746.jpg",
-    "sort_index": 746
-  },
-  {
-    "ref": 751,
-    "name": "ORGANIZADOR NEGRO METALICO DE 3 DIVISIONES",
-    "category": "Catálogo general",
-    "page": 83,
-    "image": "imagenes/producto_0747.jpg",
-    "photo": "imagenes/foto_0747.jpg",
-    "sort_index": 747
-  },
-  {
-    "ref": 752,
-    "name": "COMPAS DE PRECISION KLIPP",
-    "category": "Arte",
-    "page": 84,
-    "image": "imagenes/producto_0748.jpg",
-    "photo": "imagenes/foto_0748.jpg",
-    "sort_index": 748
-  },
-  {
     "ref": 753,
     "name": "COMPAS DE PRECISION KLIPP EN ESTUCHE",
     "category": "Arte",
@@ -6757,69 +5317,6 @@
     "image": "imagenes/producto_0751.jpg",
     "photo": "imagenes/foto_0751.jpg",
     "sort_index": 751
-  },
-  {
-    "ref": 756,
-    "name": "COLORES ARTESCO X12 + SACAPUNTAS",
-    "category": "Arte",
-    "page": 84,
-    "image": "imagenes/producto_0752.jpg",
-    "photo": "imagenes/foto_0752.jpg",
-    "sort_index": 752
-  },
-  {
-    "ref": 757,
-    "name": "ARCHIVADOR VERTICAL 13 BOLSILLOS",
-    "category": "Arte",
-    "page": 84,
-    "image": "imagenes/producto_0753.jpg",
-    "photo": "imagenes/foto_0753.jpg",
-    "sort_index": 753
-  },
-  {
-    "ref": 758,
-    "name": "ORGANIZADOR RECTANGULAR DECORADO KAWAI",
-    "category": "Arte",
-    "page": 84,
-    "image": "imagenes/producto_0754.jpg",
-    "photo": "imagenes/foto_0754.jpg",
-    "sort_index": 754
-  },
-  {
-    "ref": 759,
-    "name": "BLOCK TAMAÑO CARTA FAMA",
-    "category": "Arte",
-    "page": 84,
-    "image": "imagenes/producto_0755.jpg",
-    "photo": "imagenes/foto_0755.jpg",
-    "sort_index": 755
-  },
-  {
-    "ref": 760,
-    "name": "BLOCK TAMAÑO CARTA FAMA",
-    "category": "Arte",
-    "page": 84,
-    "image": "imagenes/producto_0756.jpg",
-    "photo": "imagenes/foto_0756.jpg",
-    "sort_index": 756
-  },
-  {
-    "ref": 761,
-    "name": "BLOCK TAMAÑO CARTA NORMA IMAGENES",
-    "category": "Catálogo general",
-    "page": 85,
-    "image": "imagenes/producto_0757.jpg",
-    "photo": "imagenes/foto_0757.jpg",
-    "sort_index": 757
-  },
-  {
-    "ref": 762,
-    "name": "BLOCK TAMAÑO CARTA NORMA IMAGENES",
-    "category": "Catálogo general",
-    "page": 85,
-    "image": "imagenes/producto_0758.jpg",
-    "photo": "imagenes/foto_0758.jpg",
-    "sort_index": 758
   },
   {
     "ref": 763,
@@ -6865,24 +5362,6 @@
     "image": "imagenes/producto_0763.jpg",
     "photo": "imagenes/foto_0763.jpg",
     "sort_index": 763
-  },
-  {
-    "ref": 768,
-    "name": "LIBRETITAS MINI NOTAS PASTA DURA ARGOLLADO SWEET",
-    "category": "Catálogo general",
-    "page": 85,
-    "image": "imagenes/producto_0764.jpg",
-    "photo": "imagenes/foto_0764.jpg",
-    "sort_index": 764
-  },
-  {
-    "ref": 769,
-    "name": "LIBRETITA MINI NOTAS DECORADO DINOSAURIO KAWAI",
-    "category": "Catálogo general",
-    "page": 85,
-    "image": "imagenes/producto_0765.jpg",
-    "photo": "imagenes/foto_0765.jpg",
-    "sort_index": 765
   },
   {
     "ref": 770,
@@ -6975,15 +5454,6 @@
     "sort_index": 775
   },
   {
-    "ref": 780,
-    "name": "CLIPS DE PARED PARA CUBICULOS",
-    "category": "Escolar",
-    "page": 87,
-    "image": "imagenes/producto_0776.jpg",
-    "photo": "imagenes/foto_0776.jpg",
-    "sort_index": 776
-  },
-  {
     "ref": 781,
     "name": "BORRADORES DE NATA GIPAO",
     "category": "Escolar",
@@ -6991,24 +5461,6 @@
     "image": "imagenes/producto_0777.jpg",
     "photo": "imagenes/foto_0777.jpg",
     "sort_index": 777
-  },
-  {
-    "ref": 782,
-    "name": "COMPAS DE V90",
-    "category": "Escolar",
-    "page": 87,
-    "image": "imagenes/producto_0778.jpg",
-    "photo": "imagenes/foto_0778.jpg",
-    "sort_index": 778
-  },
-  {
-    "ref": 783,
-    "name": "ESTUCHE DE MINAS FABER-CASTELL 0.5 2B",
-    "category": "Escolar",
-    "page": 87,
-    "image": "imagenes/producto_0779.jpg",
-    "photo": "imagenes/foto_0779.jpg",
-    "sort_index": 779
   },
   {
     "ref": 784,
@@ -7063,15 +5515,6 @@
     "image": "imagenes/producto_0785.jpg",
     "photo": "imagenes/foto_0785.jpg",
     "sort_index": 785
-  },
-  {
-    "ref": 790,
-    "name": "FUSION COLOR TEXTURIZADO EFECTOS ESPECIALES",
-    "category": "Catálogo general",
-    "page": 88,
-    "image": "imagenes/producto_0786.jpg",
-    "photo": "imagenes/foto_0786.jpg",
-    "sort_index": 786
   },
   {
     "ref": 791,
@@ -7207,5 +5650,392 @@
     "image": "imagenes/producto_0801.jpg",
     "photo": "imagenes/foto_0801.jpg",
     "sort_index": 801
+  },
+  {
+    "ref": 806,
+    "name": "BOLÍGRAFO SUPREME GIGO NEGRO 0.7 MM X12",
+    "category": "Oficina",
+    "page": 90,
+    "image": "imagenes/producto_0802.jpg",
+    "photo": "imagenes/foto_0802.jpg",
+    "sort_index": 802
+  },
+  {
+    "ref": 807,
+    "name": "TIJERAS GIGO 7.5 PULGADAS ACERO INOXIDABLE GS-0328",
+    "category": "Oficina",
+    "page": 90,
+    "image": "imagenes/producto_0803.jpg",
+    "photo": "imagenes/foto_0803.jpg",
+    "sort_index": 803
+  },
+  {
+    "ref": 808,
+    "name": "NUMERADOR DE 8 DÍGITOS GIGO GS-0716",
+    "category": "Oficina",
+    "page": 90,
+    "image": "imagenes/producto_0804.jpg",
+    "photo": "imagenes/foto_0804.jpg",
+    "sort_index": 804
+  },
+  {
+    "ref": 809,
+    "name": "ETIQUETADORA MANUAL GIGO 8 DÍGITOS",
+    "category": "Oficina",
+    "page": 90,
+    "image": "imagenes/producto_0805.jpg",
+    "photo": "imagenes/foto_0805.jpg",
+    "sort_index": 805
+  },
+  {
+    "ref": 810,
+    "name": "ÓLEOS MAGIC GIGO 12 COLORES",
+    "category": "Arte",
+    "page": 90,
+    "image": "imagenes/producto_0806.jpg",
+    "photo": "imagenes/foto_0806.jpg",
+    "sort_index": 806
+  },
+  {
+    "ref": 811,
+    "name": "BOLÍGRAFO GIGO ROJO 0.7 MM X12 GS-0160R",
+    "category": "Oficina",
+    "page": 90,
+    "image": "imagenes/producto_0807.jpg",
+    "photo": "imagenes/foto_0807.jpg",
+    "sort_index": 807
+  },
+  {
+    "ref": 812,
+    "name": "TIJERAS GIGO DE COLORES",
+    "category": "Escolar",
+    "page": 90,
+    "image": "imagenes/producto_0808.jpg",
+    "photo": "imagenes/foto_0808.jpg",
+    "sort_index": 808
+  },
+  {
+    "ref": 813,
+    "name": "PINTURAS AL ÓLEO MARIE'S X12",
+    "category": "Arte",
+    "page": 90,
+    "image": "imagenes/producto_0809.jpg",
+    "photo": "imagenes/foto_0809.jpg",
+    "sort_index": 809
+  },
+  {
+    "ref": 814,
+    "name": "PINTURAS ACRÍLICAS MARIE'S X12",
+    "category": "Arte",
+    "page": 90,
+    "image": "imagenes/producto_0810.jpg",
+    "photo": "imagenes/foto_0810.jpg",
+    "sort_index": 810
+  },
+  {
+    "ref": 815,
+    "name": "PINTURAS ACUARELA MAGIC GIGO X12",
+    "category": "Arte",
+    "page": 91,
+    "image": "imagenes/producto_0811.jpg",
+    "photo": "imagenes/foto_0811.jpg",
+    "sort_index": 811
+  },
+  {
+    "ref": 816,
+    "name": "ACUARELAS MARIE'S EN TUBO X12",
+    "category": "Arte",
+    "page": 91,
+    "image": "imagenes/producto_0812.jpg",
+    "photo": "imagenes/foto_0812.jpg",
+    "sort_index": 812
+  },
+  {
+    "ref": 817,
+    "name": "BOLÍGRAFO DE GEL PARA FIRMA GIGO GS-0172 X12",
+    "category": "Oficina",
+    "page": 91,
+    "image": "imagenes/producto_0813.jpg",
+    "photo": "imagenes/foto_0813.jpg",
+    "sort_index": 813
+  },
+  {
+    "ref": 818,
+    "name": "PINTURAS ACRÍLICAS MAGIC GIGO X12",
+    "category": "Arte",
+    "page": 91,
+    "image": "imagenes/producto_0814.jpg",
+    "photo": "imagenes/foto_0814.jpg",
+    "sort_index": 814
+  },
+  {
+    "ref": 819,
+    "name": "BOLÍGRAFO GEL TOUCH SCREEN GIGO GS-0170 X12",
+    "category": "Oficina",
+    "page": 91,
+    "image": "imagenes/producto_0815.jpg",
+    "photo": "imagenes/foto_0815.jpg",
+    "sort_index": 815
+  },
+  {
+    "ref": 820,
+    "name": "BOLÍGRAFO GIGO HERO X12",
+    "category": "Oficina",
+    "page": 91,
+    "image": "imagenes/producto_0816.jpg",
+    "photo": "imagenes/foto_0816.jpg",
+    "sort_index": 816
+  },
+  {
+    "ref": 821,
+    "name": "TINTA PARA SELLOS GIGO 30 ML NEGRA GS-0728",
+    "category": "Oficina",
+    "page": 91,
+    "image": "imagenes/producto_0817.jpg",
+    "photo": "imagenes/foto_0817.jpg",
+    "sort_index": 817
+  },
+  {
+    "ref": 822,
+    "name": "RIZADOR DE PESTAÑAS LOVE CURLER",
+    "category": "Variedades",
+    "page": 91,
+    "image": "imagenes/producto_0818.jpg",
+    "photo": "imagenes/foto_0818.jpg",
+    "sort_index": 818
+  },
+  {
+    "ref": 823,
+    "name": "BOLÍGRAFOS DE GEL DE COLORES GIGO",
+    "category": "Escolar",
+    "page": 91,
+    "image": "imagenes/producto_0819.jpg",
+    "photo": "imagenes/foto_0819.jpg",
+    "sort_index": 819
+  },
+  {
+    "ref": 824,
+    "name": "BOLÍGRAFO PREMIUM GIGO X12",
+    "category": "Oficina",
+    "page": 92,
+    "image": "imagenes/producto_0820.jpg",
+    "photo": "imagenes/foto_0820.jpg",
+    "sort_index": 820
+  },
+  {
+    "ref": 825,
+    "name": "LÁPICES GIGO X12",
+    "category": "Escolar",
+    "page": 92,
+    "image": "imagenes/producto_0821.jpg",
+    "photo": "imagenes/foto_0821.jpg",
+    "sort_index": 821
+  },
+  {
+    "ref": 826,
+    "name": "PELOTAS DE TENIS X3",
+    "category": "Variedades",
+    "page": 92,
+    "image": "imagenes/producto_0822.jpg",
+    "photo": "imagenes/foto_0822.jpg",
+    "sort_index": 822
+  },
+  {
+    "ref": 827,
+    "name": "FLAUTA ARMÓNICA GIGO GS-0272",
+    "category": "Escolar",
+    "page": 92,
+    "image": "imagenes/producto_0823.jpg",
+    "photo": "imagenes/foto_0823.jpg",
+    "sort_index": 823
+  },
+  {
+    "ref": 828,
+    "name": "COLORES DOBLE PUNTA GIGO",
+    "category": "Escolar",
+    "page": 92,
+    "image": "imagenes/producto_0824.jpg",
+    "photo": "imagenes/foto_0824.jpg",
+    "sort_index": 824
+  },
+  {
+    "ref": 829,
+    "name": "PEGANTES GIGO DE COLORES EN VARIAS PRESENTACIONES",
+    "category": "Escolar",
+    "page": 92,
+    "image": "imagenes/producto_0825.jpg",
+    "photo": "imagenes/foto_0825.jpg",
+    "sort_index": 825
+  },
+  {
+    "ref": 830,
+    "name": "TIJERAS PLEGABLES ROSE BRAND",
+    "category": "Oficina",
+    "page": 92,
+    "image": "imagenes/producto_0826.jpg",
+    "photo": "imagenes/foto_0826.jpg",
+    "sort_index": 826
+  },
+  {
+    "ref": 831,
+    "name": "CLIPS METÁLICOS GIGO X100",
+    "category": "Oficina",
+    "page": 92,
+    "image": "imagenes/producto_0827.jpg",
+    "photo": "imagenes/foto_0827.jpg",
+    "sort_index": 827
+  },
+  {
+    "ref": 832,
+    "name": "GRAPADORA INDUSTRIAL GIGO",
+    "category": "Oficina",
+    "page": 92,
+    "image": "imagenes/producto_0828.jpg",
+    "photo": "imagenes/foto_0828.jpg",
+    "sort_index": 828
+  },
+  {
+    "ref": 833,
+    "name": "TIZAS PASTELES GIGO X12",
+    "category": "Arte",
+    "page": 93,
+    "image": "imagenes/producto_0829.jpg",
+    "photo": "imagenes/foto_0829.jpg",
+    "sort_index": 829
+  },
+  {
+    "ref": 834,
+    "name": "TIJERAS GIGO",
+    "category": "Oficina",
+    "page": 93,
+    "image": "imagenes/producto_0830.jpg",
+    "photo": "imagenes/foto_0830.jpg",
+    "sort_index": 830
+  },
+  {
+    "ref": 835,
+    "name": "PEGANTE GIGO",
+    "category": "Escolar",
+    "page": 93,
+    "image": "imagenes/producto_0831.jpg",
+    "photo": "imagenes/foto_0831.jpg",
+    "sort_index": 831
+  },
+  {
+    "ref": 836,
+    "name": "MARCADOR PERMANENTE DOBLE PUNTA GIGO GS-0082 X12",
+    "category": "Oficina",
+    "page": 93,
+    "image": "imagenes/producto_0832.jpg",
+    "photo": "imagenes/foto_0832.jpg",
+    "sort_index": 832
+  },
+  {
+    "ref": 837,
+    "name": "BOLÍGRAFO SUPREME GIGO AZUL 0.7 MM X12",
+    "category": "Oficina",
+    "page": 93,
+    "image": "imagenes/producto_0833.jpg",
+    "photo": "imagenes/foto_0833.jpg",
+    "sort_index": 833
+  },
+  {
+    "ref": 838,
+    "name": "ACUARELAS EN PALETA DE COLORES",
+    "category": "Arte",
+    "page": 93,
+    "image": "imagenes/producto_0834.jpg",
+    "photo": "imagenes/foto_0834.jpg",
+    "sort_index": 834
+  },
+  {
+    "ref": 839,
+    "name": "PEGANTE MULTIUSOS GIGO",
+    "category": "Escolar",
+    "page": 93,
+    "image": "imagenes/producto_0835.jpg",
+    "photo": "imagenes/foto_0835.jpg",
+    "sort_index": 835
+  },
+  {
+    "ref": 840,
+    "name": "LUPA GIGO 50 MM",
+    "category": "Oficina",
+    "page": 93,
+    "image": "imagenes/producto_0836.jpg",
+    "photo": "imagenes/foto_0836.jpg",
+    "sort_index": 836
+  },
+  {
+    "ref": 841,
+    "name": "PLUMONES DE COLORES PANDA",
+    "category": "Escolar",
+    "page": 93,
+    "image": "imagenes/producto_0837.jpg",
+    "photo": "imagenes/foto_0837.jpg",
+    "sort_index": 837
+  },
+  {
+    "ref": 842,
+    "name": "LÁPIZ GIGO HB 2 X12",
+    "category": "Escolar",
+    "page": 94,
+    "image": "imagenes/producto_0838.jpg",
+    "photo": "imagenes/foto_0838.jpg",
+    "sort_index": 838
+  },
+  {
+    "ref": 843,
+    "name": "LUPA GIGO 75 MM",
+    "category": "Oficina",
+    "page": 94,
+    "image": "imagenes/producto_0839.jpg",
+    "photo": "imagenes/foto_0839.jpg",
+    "sort_index": 839
+  },
+  {
+    "ref": 844,
+    "name": "PUNZÓN DE PAPEL GIGO",
+    "category": "Escolar",
+    "page": 94,
+    "image": "imagenes/producto_0840.jpg",
+    "photo": "imagenes/foto_0840.jpg",
+    "sort_index": 840
+  },
+  {
+    "ref": 845,
+    "name": "TIJERAS INFANTILES DE COLORES GIGO",
+    "category": "Escolar",
+    "page": 94,
+    "image": "imagenes/producto_0841.jpg",
+    "photo": "imagenes/foto_0841.jpg",
+    "sort_index": 841
+  },
+  {
+    "ref": 846,
+    "name": "COLORES PRIMAVERA",
+    "category": "Escolar",
+    "page": 94,
+    "image": "imagenes/producto_0842.jpg",
+    "photo": "imagenes/foto_0842.jpg",
+    "sort_index": 842
+  },
+  {
+    "ref": 847,
+    "name": "LUPA GIGO 60 MM",
+    "category": "Oficina",
+    "page": 94,
+    "image": "imagenes/producto_0843.jpg",
+    "photo": "imagenes/foto_0843.jpg",
+    "sort_index": 843
+  },
+  {
+    "ref": 848,
+    "name": "PAPEL ALUMINIO SOL",
+    "category": "Hogar",
+    "page": 94,
+    "image": "imagenes/producto_0844.jpg",
+    "photo": "imagenes/foto_0844.jpg",
+    "sort_index": 844
   }
 ]
