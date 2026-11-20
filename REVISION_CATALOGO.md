@@ -1,16 +1,18 @@
-# Catálogo en revisión — noviembre 2026
+# Catálogo en revisión — noviembre de 2026
 
-Esta rama es **de prueba**. No fusionar con `main` todavía.
+Esta rama es **de prueba**. No fusionar con `main` hasta revisar y aprobar los cambios.
 
-## Preparado
-- `productos.json`: 173 productos retirados, 43 nuevos; total 671.
-- `index.html`: actualizado para mostrar los mismos 671 productos, preservando el carrito y WhatsApp.
-- Producto 410 intacto.
+## Cambios preparados y verificados
+- `productos.json`: 173 productos retirados, 43 productos nuevos y **671 productos** en total.
+- `index.html`: 671 tarjetas, sincronizadas con el JSON; se conserva la búsqueda, el carrito y los enlaces de WhatsApp.
+- **Producto 410** (índice del catálogo): no modificado.
+- **Producto 488** (índice del catálogo, referencia visible 489): nombre actualizado a **RESMA CARTA** tanto en JSON como en HTML, búsqueda y enlace de WhatsApp.
+- Carpeta `imagenes/`: comprobados los **88 archivos JPG** esperados, incluyendo ambos archivos de imagen para cada producto nuevo (`0802` a `0844`) y el reemplazo de `0488`.
+- Las 671 entradas del JSON apuntan a imágenes existentes en esta rama.
 
-## Pendiente antes de revisar o fusionar
-- Subir los 88 archivos JPG del paquete entregado en el chat a la carpeta `imagenes/` **en esta rama**: pares `producto_0802.jpg` / `foto_0802.jpg` hasta `0844`, más reemplazos `producto_0488.jpg` / `foto_0488.jpg`.
-- Los 43 nombres nuevos son propuestos y requieren revisión.
-- La fotografía recibida para el producto 488 dice **CARTA**, pero su nombre actual es **RESMA OFICIO**. Confirmar antes de publicar.
-- Comprobar visualmente la página y que las fotos cargan correctamente.
+## Pendiente antes de fusionar
+- Revisar los nombres y las categorías propuestos de los 43 productos nuevos; se infirieron de las fotos.
+- Revisar visualmente la página y las fotografías desde un entorno de prueba, comprobando búsqueda, carrito y WhatsApp.
+- La referencia 488 del índice y la 487 ahora comparten el nombre **RESMA CARTA**, pero mantienen fotos y referencias distintas; confirmar si deben ser dos artículos separados.
 
-No publicar mientras las imágenes falten.
+**No se ha actualizado la rama `main` ni publicado esta revisión.**
