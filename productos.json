@@ -1,5 +1,14 @@
 [
   {
+    "ref": 1,
+    "name": "NACHO INICIAL",
+    "category": "Librería",
+    "page": 1,
+    "image": "imagenes/producto_0001.jpg",
+    "photo": "imagenes/foto_0001.jpg",
+    "sort_index": 1
+  },
+  {
     "ref": 2,
     "name": "NACHO LECTURAS INTEGRADAS A,B,C,D Y E",
     "category": "Librería",
@@ -7,6 +16,15 @@
     "image": "imagenes/producto_0002.jpg",
     "photo": "imagenes/foto_0002.jpg",
     "sort_index": 2
+  },
+  {
+    "ref": 3,
+    "name": "NACHO MATEMÁTICAS A",
+    "category": "Librería",
+    "page": 1,
+    "image": "imagenes/producto_0003.jpg",
+    "photo": "imagenes/foto_0003.jpg",
+    "sort_index": 3
   },
   {
     "ref": 4,
@@ -25,6 +43,15 @@
     "image": "imagenes/producto_0005.jpg",
     "photo": "imagenes/foto_0005.jpg",
     "sort_index": 5
+  },
+  {
+    "ref": 6,
+    "name": "NACHO PREMATEMÁTICAS",
+    "category": "Librería",
+    "page": 1,
+    "image": "imagenes/producto_0006.jpg",
+    "photo": "imagenes/foto_0006.jpg",
+    "sort_index": 6
   },
   {
     "ref": 7,
@@ -1735,6 +1762,78 @@
     "image": "imagenes/producto_0261.jpg",
     "photo": "imagenes/foto_0261.jpg",
     "sort_index": 261
+  },
+  {
+    "ref": 271,
+    "name": "JUEGO GEOMETRICO",
+    "category": "Escolar",
+    "page": 30,
+    "image": "imagenes/producto_0262.jpg",
+    "photo": "imagenes/foto_0262.jpg",
+    "sort_index": 262
+  },
+  {
+    "ref": 272,
+    "name": "JUEGO MEOMETRICO TRAZOS",
+    "category": "Escolar",
+    "page": 30,
+    "image": "imagenes/producto_0263.jpg",
+    "photo": "imagenes/foto_0263.jpg",
+    "sort_index": 263
+  },
+  {
+    "ref": 273,
+    "name": "ESCALÍMETRO",
+    "category": "Escolar",
+    "page": 30,
+    "image": "imagenes/producto_0264.jpg",
+    "photo": "imagenes/foto_0264.jpg",
+    "sort_index": 264
+  },
+  {
+    "ref": 274,
+    "name": "REGLA MADERA",
+    "category": "Escolar",
+    "page": 30,
+    "image": "imagenes/producto_0265.jpg",
+    "photo": "imagenes/foto_0265.jpg",
+    "sort_index": 265
+  },
+  {
+    "ref": 275,
+    "name": "REGLA \"MORRISON\" OVALOS",
+    "category": "Escolar",
+    "page": 30,
+    "image": "imagenes/producto_0266.jpg",
+    "photo": "imagenes/foto_0266.jpg",
+    "sort_index": 266
+  },
+  {
+    "ref": 276,
+    "name": "SET DE COMPÁS TRANSPORTADOR Y MINAS",
+    "category": "Escolar",
+    "page": 30,
+    "image": "imagenes/producto_0267.jpg",
+    "photo": "imagenes/foto_0267.jpg",
+    "sort_index": 267
+  },
+  {
+    "ref": 277,
+    "name": "JUEGO GEOMETRICO SUPERFEXIBLE",
+    "category": "Escolar",
+    "page": 30,
+    "image": "imagenes/producto_0268.jpg",
+    "photo": "imagenes/foto_0268.jpg",
+    "sort_index": 268
+  },
+  {
+    "ref": 278,
+    "name": "TRANSPORTADOR ARTESCO 360°x10CM",
+    "category": "Escolar",
+    "page": 30,
+    "image": "imagenes/producto_0269.jpg",
+    "photo": "imagenes/foto_0269.jpg",
+    "sort_index": 269
   },
   {
     "ref": 280,
