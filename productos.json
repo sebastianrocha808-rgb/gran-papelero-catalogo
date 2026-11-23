@@ -577,7 +577,7 @@
   },
   {
     "ref": 74,
-    "name": "TINTA PARA MARCADORESMARFIL 20 ML",
+    "name": "TINTA PARA MARCADORES MARFIL 20 ML",
     "category": "Oficina",
     "page": 9,
     "image": "imagenes/producto_0074.jpg",
@@ -3523,8 +3523,8 @@
     "name": "RESMA CARTA",
     "category": "Oficina",
     "page": 55,
-    "image": "imagenes/producto_0487.jpg",
-    "photo": "imagenes/foto_0487.jpg",
+    "image": "imagenes/producto_0487_report_carta.jpg",
+    "photo": "imagenes/foto_0487_report_carta.jpg",
     "sort_index": 487
   },
   {
