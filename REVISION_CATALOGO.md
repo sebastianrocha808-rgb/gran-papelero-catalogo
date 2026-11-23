@@ -1,35 +1,20 @@
-# Catálogo en revisión — noviembre de 2026
+# Revisión de catálogo — rama de prueba
 
-**RAMA DE PRUEBA: NO FUSIONAR CON `main` TODAVÍA.**
+**No publicar todavía: `main` no se ha actualizado.**
 
-## Corregido y verificado
-- `productos.json` y `index.html`: **672 productos** (629 existentes + 43 nuevos).
-- Se eliminaron **172 productos identificados con seguridad**, interpretando las cifras manuscritas como **referencias visibles** (`ref`), NO como `sort_index`. Se quitó toda la página 30.
-- **Ref. 488 = RESMA CARTA** (posición interna `sort_index = 487`). Ambas imágenes de `0487` ahora usan la foto azul Report tamaño carta.
-- **Ref. 489 = RESMA OFICIO** (posición interna `sort_index = 488`). Ambas imágenes de `0488` restauradas al Reprograf original.
-- **Ref. 411, índice 410** (archivador): sin cambios, como pidió el usuario.
-- 43 productos nuevos, imágenes `producto_0802.jpg` a `producto_0844.jpg` (y equivalentes `foto_`), con nombres provisionales.
-- Los archivos de `imagenes/` subidos por el usuario existen en esta rama.
+## Resumen corregido
+- **161 productos eliminados** según los números individuales y rangos explícitos de la lista manuscrita (los extremos de cada rango se incluyen).
+- Se **omitieron** las anotaciones que dicen «Ref 1», «Ref 3», «Ref 6» y «Ref pág. 30». **Ref. 1 / NACHO INICIAL queda conservada.**
+- En la página 30 se conservan 8 productos; solo la ref. 279 se elimina porque aparece como número individual en la lista.
+- 43 productos nuevos con nombres provisionales; total **683** productos (640 originales + 43 nuevos).
+- La nueva imagen azul Report se usa para **Ref. 488 / RESMA CARTA** (internamente, archivo 0487). **Ref. 489 / RESMA OFICIO** conserva sus dos fotos originales (archivo 0488).
+- Producto de índice 410, **ARCHIVADOR 13 BOLSILLOS**, sin cambios.
+- Se subieron 88 imágenes preparadas: 86 nuevas (parejas JPG) y 2 del reemplazo carta. Los archivos de 0488 se restauraron a su estado original en la rama.
+- Se conservó un registro duplicado con `ref=36` de posición 334 por ser una referencia mal numerada no relacionada con la secuencia inicial.
 
-## ¡ATENCIÓN! Referencias duplicadas por corregir
+## Auditoría completa
+Ver [AUDITORIA_ELIMINACIONES.md](AUDITORIA_ELIMINACIONES.md) para los 161 productos eliminados.
 
-En el JSON original hay referencias visibles duplicadas **1, 3, 6, 36**. Se quitó el registro cuya posición interna coincide con la referencia (1, 3, 6 y 36), y se **conservaron provisionalmente estos nueve registros ambiguos** para no eliminar artículos erróneos:
-
-| Ref. visible duplicada | `sort_index` | Nombre en el JSON |
-|---|---:|---|
-| 3 | 139 | 148.CARTUCHERA CIERRES PRIMAVERA |
-| 1 | 234 | SACAPUNTA KLIPP 243 SERVICIO HEXAGONAL *12 UNDS |
-| 3 | 319 | Nombre por confirmar |
-| 6 | 320 | Nombre por confirmar |
-| 36 | 334 | COLORES ARTESCO UND 335 |
-| 3 | 395 | FOLDER AROS MOTIVOS 396 VARIADOS |
-| 1 | 429 | AGENDA MATERIA 430 ARGOLLADA PASTA DURA PEQUEÑA |
-| 1 | 584 | PINTO x 1.000 |
-| 3 | 703 | LEGO EN 1 DINOSAURIO 707 |
-
-## Pendientes antes de publicar
-1. Decidir si los nueve registros con referencias duplicadas deben mantenerse o eliminarse.
-2. Revisar los nombres y categorías provisionales de los 43 productos agregados.
-3. Revisar visualmente fotos y comportamiento del buscador, carrito y enlaces WhatsApp.
-
-**`main` está sin modificar.**
+## Pendiente antes de publicar
+- Revisar los 43 nombres y categorías provisionales.
+- Probar visualmente el catálogo, buscador, carrito y WhatsApp.
